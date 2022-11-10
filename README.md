@@ -1,4 +1,5 @@
 # Prueba-EDD
 
-* Martín Sobarzo
+* Martín Sobarzo (Pop_OS)
 * Constanza Olivos
+
